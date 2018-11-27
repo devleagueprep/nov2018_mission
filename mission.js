@@ -3,7 +3,7 @@
 This repo will self-destruct in five seconds. Good luck!*/
 
 /*Mission 1: 
-Team Member:
+Team Member: Tyler
 
 @param Datatype: String
 @return Datatype: String
@@ -13,7 +13,7 @@ Console.log to see your result.*/
 
  
  /*Mission 2: 
- Team Member: 
+ Team Member: Eunice
  
  @param Datatype: String
  @param Datatype: Number
@@ -25,7 +25,7 @@ Console.log to see your result.*/
  
  
  /*Mission 3: 
- Team Member: 
+ Team Member: Davis
  
  @param Datatype: Array
  @return Datatype: Array
@@ -35,7 +35,7 @@ Console.log to see your result.*/
  
 
  /*Mission 4: 
- Team Member: 
+ Team Member: Slyvia
  
  @param Datatype: Array
  @return Datatype: Array
@@ -45,7 +45,7 @@ Console.log to see your result.*/
  
  
  /*Mission 5:
- Team Member: 
+ Team Member: Roland
  
  @param Datatype: Array
  @param Datatype: String
