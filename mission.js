@@ -57,6 +57,7 @@ Console.log to see your result.*/
     return "I forgot about this already";
  }
  console.log(plusOne);
+ console.log("hi");
  
  /*Mission 6:
  Team Member: 
