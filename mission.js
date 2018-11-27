@@ -2,6 +2,8 @@
 
 This repo will self-destruct in five seconds. Good luck!*/
 
+console.log('happy monday!')
+
 /*Mission 1: 
 Team Member: Tyler
 
