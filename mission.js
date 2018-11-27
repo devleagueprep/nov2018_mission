@@ -17,7 +17,7 @@ function weatherReport(weather){
 }
 
 console.log(weatherReport('lovely'));
- var if = 0;
+ var if = 2;
 
  /*Mission 2: 
  Team Member: Eunice
