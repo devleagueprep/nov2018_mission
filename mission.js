@@ -43,6 +43,10 @@ Console.log to see your result.*/
  Create a function named evens that takes in a parameter arr and will sum up only the even indexed numbers in the array and returns a new array.
  Console.log your result.*/
  
+ function evens(arr){
+    return 
+
+ }
  
  /*Mission 5:
  Team Member: Roland
